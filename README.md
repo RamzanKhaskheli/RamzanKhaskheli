@@ -1,15 +1,12 @@
 <h1 align="center">Hi 👋, I'm Muhammad Ramzan</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-- 🔭 I’m currently working on **shopify Clone**
 
-- 🌱 I’m currently learning **MERN STACK**
 
-- 👯 I’m looking to collaborate on **WhatsApp Clone**
 
-- 🤝 I’m looking for help with **ECommerce WebApp**
 
-- 💬 Ask me about **JavaScript ES6 , HTML5 , CSS3**
+
+- 💬 Ask me about **JavaScript ES6 , ReactJs , HTML5 , CSS3**
 
 - 📫 How to reach me **mramzankhaskheli7@gmail.com**
 
